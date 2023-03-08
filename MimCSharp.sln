@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcHash", "CalcHash\CalcHa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimcBN254Test", "MimcBN254Test\MimcBN254Test.csproj", "{EF1378B1-37A1-459B-88A0-A5AD9D6A9580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimcBN254Bench", "MimcBN254Bench\MimcBN254Bench.csproj", "{5EA51B5C-6058-48E9-B665-AB3240904B7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{EF1378B1-37A1-459B-88A0-A5AD9D6A9580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF1378B1-37A1-459B-88A0-A5AD9D6A9580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF1378B1-37A1-459B-88A0-A5AD9D6A9580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA51B5C-6058-48E9-B665-AB3240904B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA51B5C-6058-48E9-B665-AB3240904B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA51B5C-6058-48E9-B665-AB3240904B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA51B5C-6058-48E9-B665-AB3240904B7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
