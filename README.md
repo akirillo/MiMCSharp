@@ -20,7 +20,7 @@ This is the BabyJubJub prime, and is the order of the BN254 curve's scalar field
 2. `cd` into the root folder `MiMCSharp`
 3. Run the console app:
 ```shell
-dotnet run --prohect CalcHash/CalcHash.csproj
+dotnet run --project CalcHash/CalcHash.csproj
 ```
 
 GLHF lmk if it breaks
