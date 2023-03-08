@@ -65,6 +65,6 @@ class Program
         mimc.Write(values);
         var res = mimc.Sum();
         Console.WriteLine("\nMiMCHash:\n");
-        Console.WriteLine(res.ToBigInteger().ToString());
+        Console.WriteLine($"{res.ToBigInteger().ToString()}\n");
     }
 }
